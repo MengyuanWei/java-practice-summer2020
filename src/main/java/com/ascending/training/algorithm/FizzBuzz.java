@@ -24,9 +24,8 @@ public class FizzBuzz {
         return array;
     }
 
-    public static List<String> staticSolution(int n){
-
-    }
+//    public static List<String> staticSolution(int n){
+//    }
 
     public static void main(String[] args){
 
