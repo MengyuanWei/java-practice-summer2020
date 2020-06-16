@@ -1,4 +1,5 @@
 package com.ascending.training.pattern;
 
-public class Factory {
+public interface Shape {
+    void draw();
 }
