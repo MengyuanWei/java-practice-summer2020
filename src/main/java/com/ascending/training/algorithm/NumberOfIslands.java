@@ -1,11 +1,7 @@
 package com.ascending.training.algorithm;
 
-import java.util.List;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-
-public class DemoAlgo{
+// Leetcode 200. Number Of Islands
+public class NumberOfIslands {
     public static void main(String[] args){
         int[][] grid = {
                 {1,0,0,1},
@@ -14,7 +10,7 @@ public class DemoAlgo{
                 {1,0,0,1}
         };
 
-        DemoAlgo a = new DemoAlgo();
+        NumberOfIslands a = new NumberOfIslands();
         System.out.println(a.countIsland(grid));
 
     }
