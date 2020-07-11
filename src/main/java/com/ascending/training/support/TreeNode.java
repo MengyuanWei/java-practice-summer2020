@@ -1,4 +1,4 @@
-package com.ascending.training.algorithm;
+package com.ascending.training.support;
 
 public class TreeNode {
     public int val;

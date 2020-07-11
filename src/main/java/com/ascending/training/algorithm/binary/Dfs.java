@@ -1,4 +1,6 @@
-package com.ascending.training.algorithm;
+package com.ascending.training.algorithm.binary;
+
+import com.ascending.training.support.TreeNode;
 
 public class Dfs {
     public static void  main(String[] args){
